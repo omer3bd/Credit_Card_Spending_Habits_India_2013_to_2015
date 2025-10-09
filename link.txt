@@ -1,0 +1,3 @@
+link.txt
+https://www.kaggle.com/datasets/thedevastator/analyzing-credit-card-spending-habits-in-india
+https://www.kaggle.com/datasets/manukulamkombil/indian-holidays-20172019
