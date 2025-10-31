@@ -5,14 +5,11 @@
 - [Data Structure](#data-structure)
   - [Repo Structure](#repo-structure)
 - [Executive Summary](#executive-summary)
-
 - [Insights Deep Dive](#insights-deep-dive)
-- [Avg. spending behaviours by Cities](#)
-- [Weekly spending habits](#)
-- [Card type Performance](#)
-- [Expenses Transaction Analysis](#)
-
-
+  - [Avg. spending behaviours by Cities](#)
+  - [Weekly spending habits](#)
+  - [Card type Performance](#)
+  - [Expenses Transaction Analysis](#)
 - [Recommendations](#recommendations)
 - [Assumptions and Caveats](#assumptions-and-caveats)
 
@@ -29,9 +26,11 @@ Insights and Recommendations are provided for the following areas:
 
 - **Expense Transaction Analysis:** Investigates which spending categories (e.g., Food, Fuel, Bills, Travel) dominate transaction volumes and how holiday periods influence overall behavior.
 
-_An interactive **Tableau Dashboard** can be used [here](https://public.tableau.com/app/profile/omer.ab1308/viz/CreditCardSpendingHabitsinIndia_17609041788720/Dashboard1).
-The **SQL Queries** used to clean, organize and prepare the data can be found [here](https://github.com/omer3bd/Credit_Card_Spending_Habits_India_2013_to_2015/blob/master/credit_card_transactions.sql).
-The **web-scraping script** used to extract data from a [website](https://www.timeanddate.com/holidays/india/2013) can be found [here](https://github.com/omer3bd/Credit_Card_Spending_Habits_India_2013_to_2015/blob/master/scraping_indian_holidays.py)._
+_An interactive **Tableau Dashboard** can be used [here](https://public.tableau.com/app/profile/omer.ab1308/viz/CreditCardSpendingHabitsinIndia_17609041788720/Dashboard1)._
+
+_The **SQL Queries** used to clean, organize and prepare the data can be found [here](https://github.com/omer3bd/Credit_Card_Spending_Habits_India_2013_to_2015/blob/master/credit_card_transactions.sql)._
+
+_The **web-scraping script** used to extract data from a [website](https://www.timeanddate.com/holidays/india/2013) can be found [here](https://github.com/omer3bd/Credit_Card_Spending_Habits_India_2013_to_2015/blob/master/scraping_indian_holidays.py)._
 
 ## **Data Structure**
 
@@ -82,7 +81,7 @@ Finally, the **Expenses Transaction** analysis highlights **Food, Fuel, and Bill
 
 ![](images/Dashboard.png)
 
-Below is the page from tableau dashboard and more examples are included throughout the report. The entire interactive dashboard can be used [here](https://public.tableau.com/app/profile/omer.ab1308/viz/CreditCardSpendingHabitsinIndia_17609041788720/Dashboard1).
+_Below is the page from tableau dashboard and more examples are included throughout the report. The entire interactive dashboard can be used [here](https://public.tableau.com/app/profile/omer.ab1308/viz/CreditCardSpendingHabitsinIndia_17609041788720/Dashboard1)._
 
 ## Insights Deep Dive
 
